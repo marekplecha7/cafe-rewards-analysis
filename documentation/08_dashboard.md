@@ -26,7 +26,7 @@ The Overview page provides a high-level summary of customer activity, revenue an
 - Completion Rate by Offer Type
 - Revenue by Observation Day
 
-![Overview Dashboard](images/dashboard_overview.PNG)
+![Overview Dashboard](/images/dashboard_overview.PNG)
 
 ## 2. Offer Performance
 
@@ -45,7 +45,7 @@ The Offer Performance page provides a more detailed comparison of individual pro
 
 The offer performance table also includes difficulty, reward and duration to provide additional context when comparing individual offers.
 
-![Offer Performance Dashboard](images/dashboard_offer_performance.PNG)
+![Offer Performance Dashboard](/images/dashboard_offer_performance.PNG)
 
 ## 3. Customer Segments
 
@@ -65,7 +65,7 @@ The Customer Segments page focuses on differences in customer behavior across de
 
 Customers with unavailable demographic information were retained in the data model but excluded from demographic segment comparisons where appropriate.
 
-![Customer Segments Dashboard](images/dashboard_customer_segments.PNG)
+![Customer Segments Dashboard](/images/dashboard_customer_segments.PNG)
 
 ## Design
 
