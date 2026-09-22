@@ -19,7 +19,7 @@ Relationships:
 
 Both relationships use single-direction filtering from the dimension tables to the fact table.
 
-![Power BI Data Model](images/data_model.PNG)
+![Power BI Data Model](/images/data_model.PNG)
 
 ## Supporting Tables
 
@@ -58,4 +58,4 @@ Core measures include:
 
 These measures are calculated dynamically based on the report filter context and are reused across dashboard pages.
 
-![DAX Measures](images/dax_measures.PNG)
+![DAX Measures](/images/dax_measures.PNG)
