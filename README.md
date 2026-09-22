@@ -63,7 +63,7 @@ The core Power BI model follows a simple star schema:
 
 Additional supporting tables were used for DAX measures and offer completion-status analysis.
 
-![Data Model](images/data_model.png)
+![Data Model](images/data_model.PNG)
 
 ## Dashboard
 
