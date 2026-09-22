@@ -73,19 +73,19 @@ The dashboard contains three pages:
 
 High-level view of revenue, customer activity and offer performance.
 
-![Overview Dashboard](Images/dashboard_overview.png)
+![Overview Dashboard](images/dashboard_overview.PNG)
 
 ### Offer Performance
 
 Detailed comparison of individual promotional offers, including view and completion rates.
 
-![Offer Performance Dashboard](Images/dashboard_offer_performance.png)
+![Offer Performance Dashboard](images/dashboard_offer_performance.PNG)
 
 ### Customer Segments
 
 Analysis of spending and offer engagement across income, age and gender segments.
 
-![Customer Segments Dashboard](Images/dashboard_customer_segments.png)
+![Customer Segments Dashboard](images/dashboard_customer_segments.PNG)
 
 ## Key Findings
 
